@@ -41,7 +41,4 @@ green();
 
 printf("\e[0m");
 
-gotoxy(45, 45);
-printf("o");
-
 }
